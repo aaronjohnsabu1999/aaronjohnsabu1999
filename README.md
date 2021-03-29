@@ -52,7 +52,8 @@ The following repositories contain files pertaining to projects and labwork from
 - [Variation of Intrinsic Impedance in Graphite and Diamond](https://github.com/aaronjohnsabu1999/Intrinsic_Impedance) (EE 301: Electromagnetic Waves)
 - [1 Hz MM:SS Digital Stopwatch](https://github.com/aaronjohnsabu1999/tiktiktok) (EE 112: Introduction to Electronics)
 
-The following repositories contain files pertaining to hobby projects. Not all of them are complete and feel free to contribute:
+The following repositories contain files pertaining to other projects. Not all of them are complete and feel free to contribute:
+- [Agrobot Design Innovation Challenge](https://github.com/aaronjohnsabu1999/Agrobot-TechMeet2021) (Inter-IIT Tech Meet 9.0, IIT Guwahati, 2021)
 - [The Multi-Book Advanced Bible (mBAB) Search Application](https://github.com/aaronjohnsabu1999/mBAB) (Hobby Project 2020)
 - [Databases of the English versions of the Holy Bible](https://github.com/aaronjohnsabu1999/bible-databases) (Part of mBAB)
 - [Sudoku Solver - Block Printer](https://github.com/aaronjohnsabu1999/sudoku-solver-itsp-2018) (Institute Technical Summer Project 2018)
