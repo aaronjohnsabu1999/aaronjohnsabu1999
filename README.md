@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a senior undergraduate in the Department of Electrical Engineering at the Indian Institute of Technology (IIT) Bombay. I am presently working on projects related to multi-agent control, robotics and mechanical metamaterials.  
+I am a senior undergraduate pursuing Bachelor of Technology with Majors in Electrical Engineering (with Honors) and Minors in Aerospace Engineering at the Indian Institute of Technology (IIT) Bombay.  
+
+- 🔭 I’m currently working on  research projects related to multi-agent control and mechanical metamaterials.  
+- 🌱 I’m currently learning optimal control, high performance computing, spaceflight mechanics, aircraft flight mechanics, and economic developments in technology.
+- 😄 Pronouns: he/him/his
 
 <div align="center">
 <a href="https://twitter.com/AaronJS_Thevel" target="_blank">
