@@ -1,10 +1,7 @@
 ### Hi, I am [Aaron](https://sites.google.com/view/aaronjs/) 👋
 
 <!--
-**aaronjohnsabu1999/aaronjohnsabu1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Here are some ideas to get you started:  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +14,7 @@ Here are some ideas to get you started:
 
 I am a senior undergraduate pursuing Bachelor of Technology with Majors in Electrical Engineering (with Honors) and Minors in Aerospace Engineering at the Indian Institute of Technology (IIT) Bombay.  
 
-- 🔭 I’m currently working on  research projects related to multi-agent control and mechanical metamaterials.  
+- 🔭 I’m currently working on research projects on in-orbit decentralized construction and mechanical metamaterials.  
 - 🌱 I’m currently learning optimal control, high performance computing, spaceflight mechanics, aircraft flight mechanics, and economic developments in technology.
 - 😄 Pronouns: he/him/his
 
@@ -45,10 +42,11 @@ The following repositories contain all public and shareable files from my underg
 
 The following repositories contain files pertaining to projects and labwork from courses as part of my undergraduate studies:
 - [ROS (Robot Operating System) Lab Assignments](https://github.com/aaronjohnsabu1999/Mobile-Robotics-SC635) (SC 635: Advanced Topics in Mobile Robotics)
-- [Parallel Computing Assignments on OpenMP, MPI, and CUDA](https://github.com/aaronjohnsabu1999/Parallel-Computing-ME766) (ME 766: High Performance Scientific Computing)
+- [Path Planning using Parallel Computing](https://github.com/aaronjohnsabu1999/Path-Planner-ME766) (ME 766: High Performance Scientific Computing)
 - [Localization using Mobile Wireless Sensor Networks](https://github.com/aaronjohnsabu1999/Localization-using-WSNs) (EE 617: Sensors in Instrumentation)
 - [Pick-and-Sort SCARA (RRP) Robotic Arm](https://github.com/aaronjohnsabu1999/SCARA-ME604) (ME 604: Robotics)
 - [Space Mission Assignment on the TDO (1,2) missions and Atlas V (551)](https://github.com/aaronjohnsabu1999/Space-Mission-AE240) (AE 240: Spaceflight Mechanics)
+- [Parallel Computing Assignments on OpenMP, MPI, and CUDA](https://github.com/aaronjohnsabu1999/Parallel-Computing-ME766) (ME 766: High Performance Scientific Computing)
 - [Bandits all around me, MDPs for a Purpose, Windy Gridworld](https://github.com/aaronjohnsabu1999/Intelligent-Agents-CS747) (CS 747: Foundations of Intelligent and Learning Agents)
 - [Bluetooth-controller XY Precision Stage](https://github.com/aaronjohnsabu1999/XY-Stage-ME6102) (ME6102: Design of Mechatronic Systems)
 - [Simulation of a Flexible Double Pendulum on Matlab](https://github.com/aaronjohnsabu1999/Flexible-Double-Pendulum) (ME6102: Design of Mechatronic Systems)
