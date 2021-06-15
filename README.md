@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an incoming graduate student in Electrical and Computer Engineering at the University of California, Los Angeles. I have completed my Bachelor of Technology with Majors in Electrical Engineering (with Honors) and Minors in Aerospace Engineering at the Indian Institute of Technology (IIT) Bombay.  
-
-- 🔭 I’m currently working on research projects on aerial multi-robot systems, in-orbit automated construction, and mechanical metamaterials.  
+I am an incoming graduate student in Electrical and Computer Engineering at the University of California, Los Angeles. I have completed my Bachelor of Technology with Majors in Electrical Engineering (with Honors) and Minors in Aerospace Engineering at the Indian Institute of Technology (IIT) Bombay. I’m currently working on research projects on aerial multi-robot systems, in-orbit automated construction, and mechanical metamaterials.  
 
 <div align="center">
 <a href="https://www.linkedin.com/in/aaron-john-sabu/" target="_blank">
