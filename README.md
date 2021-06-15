@@ -12,18 +12,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a senior undergraduate pursuing Bachelor of Technology with Majors in Electrical Engineering (with Honors) and Minors in Aerospace Engineering at the Indian Institute of Technology (IIT) Bombay.  
+I am an incoming graduate student in Electrical and Computer Engineering at the University of California, Los Angeles. I have completed my Bachelor of Technology with Majors in Electrical Engineering (with Honors) and Minors in Aerospace Engineering at the Indian Institute of Technology (IIT) Bombay.  
 
-- 🔭 I’m currently working on research projects on in-orbit decentralized construction and mechanical metamaterials.  
-- 🌱 I’m currently learning optimal control, high performance computing, spaceflight mechanics, aircraft flight mechanics, and economic developments in technology.
-- 😄 Pronouns: he/him/his
+- 🔭 I’m currently working on research projects on aerial multi-robot systems, in-orbit automated construction, and mechanical metamaterials.  
 
 <div align="center">
-<a href="https://twitter.com/AaronJS_Thevel" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=00acee&color=00acee alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/aaron-john-sabu/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e76a8&color=0e76a8  alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AaronJS_Thevel" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=00acee&color=00acee alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.quora.com/profile/Aaron-John-Sabu" target="_blank">
 <img src=https://img.shields.io/badge/quora-%2300acee.svg?&style=for-the-badge&logo=quora&logoColor=white&labelColor=a82400&color=a82400 alt=quora style="margin-bottom: 5px;" />
