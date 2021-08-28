@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an incoming graduate student in Electrical and Computer Engineering at the University of California, Los Angeles. I have completed my Bachelor of Technology with Majors in Electrical Engineering (with Honors) and Minors in Aerospace Engineering at the Indian Institute of Technology (IIT) Bombay. I’m currently working on research projects on [aerial multi-robot systems](https://uclalemur.com/research/foray).  
+I am a graduate student in the Department of [Electrical and Computer Engineering](https://www.ee.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/). I have completed my Bachelor of Technology with Majors in [Electrical Engineering](https://www.ee.iitb.ac.in/) (with Honors) and Minors in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) at the [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/). I’m currently working on the [FORAY](https://uclalemur.com/research/foray) project (aerial multi-robot systems) at the [Laboratory for Embedded Machines and Ubiquitous Robots](https://uclalemur.com/).  
 
 <div align="center">
 <a href="https://www.linkedin.com/in/aaron-john-sabu/" target="_blank">
@@ -26,7 +26,7 @@ I am an incoming graduate student in Electrical and Computer Engineering at the 
 </a>
 </div>
 
-The following repositories contain all public and shareable files from my undergraduate studies in Electrical Engineering at IIT Bombay:  
+The following repositories contain all public and shareable files from my undergraduate studies in [Electrical Engineering at IIT Bombay](https://www.ee.iitb.ac.in/web/academics/curriculum/btechnew):  
 - [Fall 2017](https://github.com/aaronjohnsabu1999/IITB-EE-Sem01)
 - [Spring 2018](https://github.com/aaronjohnsabu1999/IITB-EE-Sem02)
 - [Fall 2018](https://github.com/aaronjohnsabu1999/IITB-EE-Sem03)
