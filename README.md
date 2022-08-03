@@ -10,19 +10,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div align="center">
+<a href="https://www.quora.com/profile/Aaron-John-Sabu" target="_blank">
+<img src=https://img.shields.io/badge/quora-%2300acee.svg?&style=for-the-badge&logo=quora&logoColor=white&labelColor=a82400&color=a82400 alt=quora style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AaronJS_Thevel" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=00acee&color=00acee alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div>
 -->
 
-I am a graduate student in the Department of [Electrical and Computer Engineering](https://www.ee.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/). I have completed my Bachelor of Technology with Majors in [Electrical Engineering](https://www.ee.iitb.ac.in/) (with Honors) and Minors in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) at the [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/). I’m currently working on the [FORAY](https://uclalemur.com/research/foray) project (aerial multi-robot systems) at the [Laboratory for Embedded Machines and Ubiquitous Robots](https://uclalemur.com/).  
+I am a graduate student in the Department of [Electrical and Computer Engineering](https://www.ee.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/). I have completed my Bachelor of Technology with Majors in [Electrical Engineering](https://www.ee.iitb.ac.in/) (with Honors) and Minors in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) at the [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/). I’m currently working with [Dr. Brett Lopez](https://samueli.ucla.edu/people/brett-lopez/) at the UCLA [Verifiable & Control-Theoretic Robotics (VECTR)](https://github.com/vectr-ucla) Laboratory.  
 
 <div align="center">
 <a href="https://www.linkedin.com/in/aaron-john-sabu/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e76a8&color=0e76a8  alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/AaronJS_Thevel" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=00acee&color=00acee alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.quora.com/profile/Aaron-John-Sabu" target="_blank">
-<img src=https://img.shields.io/badge/quora-%2300acee.svg?&style=for-the-badge&logo=quora&logoColor=white&labelColor=a82400&color=a82400 alt=quora style="margin-bottom: 5px;" />
+<a href="https://sites.google.com/view/aaronjs/" target="_blank">
+<img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
 </div>
 
