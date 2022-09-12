@@ -43,6 +43,7 @@ The following repositories contain all public and shareable files from my underg
 - [Spring 2021](https://github.com/aaronjohnsabu1999/IITB-EE-Sem08)  
 
 The following repositories contain files pertaining to projects and labwork from courses as part of my undergraduate studies:
+- [Scalable Techniques for Autonomous Construction of a Paraboloidal Space Telescope in an Elliptic Orbit](https://github.com/aaronjohnsabu1999/tethered-self-assembly-AD2021) (EE 492: BTech Project II)
 - [ROS (Robot Operating System) Lab Assignments](https://github.com/aaronjohnsabu1999/Mobile-Robotics-SC635) (SC 635: Advanced Topics in Mobile Robotics)
 - [Path Planning using Parallel Computing](https://github.com/aaronjohnsabu1999/Path-Planner-ME766) (ME 766: High Performance Scientific Computing)
 - [Localization using Mobile Wireless Sensor Networks](https://github.com/aaronjohnsabu1999/Localization-using-WSNs) (EE 617: Sensors in Instrumentation)
