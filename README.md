@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-I am a graduate student in the Department of [Electrical and Computer Engineering](https://www.ee.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/). I have completed my Bachelor of Technology with Majors in [Electrical Engineering](https://www.ee.iitb.ac.in/) (with Honors) and Minors in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) at the [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/). I’m currently working with [Dr. Brett Lopez](https://samueli.ucla.edu/people/brett-lopez/) at the UCLA [Verifiable & Control-Theoretic Robotics (VECTR)](https://github.com/vectr-ucla) Laboratory.  
+I am a graduate student in the Department of [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/). I completed my Bachelor of Technology with Majors in [Electrical Engineering](https://www.ee.iitb.ac.in/) (with Honors) and Minors in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) at the [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/) following which I completed my Master of Science majoring in [Electrical and Computer Engineering](https://www.ee.ucla.edu/) at the University of California, Los Angeles. I’m currently working with [Dr. Brett Lopez](https://samueli.ucla.edu/people/brett-lopez/) at the UCLA [Verifiable & Control-Theoretic Robotics (VECTR)](https://github.com/vectr-ucla) Laboratory.  
 
 <div align="center">
 <a href="https://www.linkedin.com/in/aaron-john-sabu/" target="_blank">
