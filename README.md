@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-I am a graduate student in the Department of [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/). I completed my Bachelor of Technology with Majors in [Electrical Engineering](https://www.ee.iitb.ac.in/) (with Honors) and Minors in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) at the [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/) following which I completed my Master of Science majoring in [Electrical and Computer Engineering](https://www.ee.ucla.edu/) at the University of California, Los Angeles. I’m currently working with [Dr. Brett Lopez](https://samueli.ucla.edu/people/brett-lopez/) at the UCLA [Verifiable & Control-Theoretic Robotics (VECTR)](https://github.com/vectr-ucla) Laboratory.  
+I am a PhD student in the Department of [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/). I completed my Bachelor of Technology with Majors in [Electrical Engineering](https://www.ee.iitb.ac.in/) (with Honors) and Minors in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) at the [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/) following which I completed my Master of Science majoring in [Electrical and Computer Engineering](https://www.ee.ucla.edu/) at the University of California, Los Angeles. I’m currently working with [Dr. Brett Lopez](https://samueli.ucla.edu/people/brett-lopez/) at the UCLA [Verifiable & Control-Theoretic Robotics (VECTR)](https://github.com/vectr-ucla) Laboratory.  
 
 <div align="center">
 <a href="https://www.linkedin.com/in/aaron-john-sabu/" target="_blank">
@@ -32,6 +32,7 @@ I am a graduate student in the Department of [Mechanical and Aerospace Engineeri
 </a>
 </div>
 
+<!--
 The following repositories contain all public and shareable files from my undergraduate studies in [Electrical Engineering at IIT Bombay](https://www.ee.iitb.ac.in/web/academics/curriculum/btechnew):  
 - [Fall 2017](https://github.com/aaronjohnsabu1999/IITB-EE-Sem01)
 - [Spring 2018](https://github.com/aaronjohnsabu1999/IITB-EE-Sem02)
@@ -81,3 +82,4 @@ The following repositories contain files pertaining to projects, labwork and exa
 - [Introduction to Computer Science and Programming using Python (MITx 6.00.1x)](https://github.com/aaronjohnsabu1999/MITx_6.00.1x)
 - [Machine Learning (Stanford University)](https://github.com/aaronjohnsabu1999/Machine-Learning)
 - [Introduction to Tensorflow for Artificial, Machine Learning, and Deep Learning (deeplearning.ai)](https://github.com/aaronjohnsabu1999/tf_dl.ai_Coursera)
+-->
