@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-I am a PhD student in the Department of [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/). I completed my Bachelor of Technology with Majors in [Electrical Engineering](https://www.ee.iitb.ac.in/) (with Honors) and Minors in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) at the [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/) following which I completed my Master of Science majoring in [Electrical and Computer Engineering](https://www.ee.ucla.edu/) at the University of California, Los Angeles.
+I am a PhD student in the Department of [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/). I completed my Bachelor of Technology with Majors in [Electrical Engineering](https://www.ee.iitb.ac.in/) (with Honors) and Minors in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) at the [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/) following which I completed my Master of Science majoring in [Electrical and Computer Engineering](https://www.ee.ucla.edu/) at the University of California, Los Angeles. My life motto involves orchestrating images and perceptions on any splintered nugget of this pseudo-ellipsoid geoid pie we call home with the aspiration to transform dreams to reality.  
 
 <div align="center">
 <a href="https://www.linkedin.com/in/aaron-john-sabu/" target="_blank">
