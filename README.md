@@ -26,6 +26,7 @@ My work blends **controls**, **optimization**, and **software engineering** - tu
 
 ---
 
+<!--
 ### Selected Projects
 
 - [**Megastructure Assembly via Collaborative Robots in Orbits (MACRO)**](https://github.com/aaronjohnsabu1999/macro)  
@@ -43,7 +44,7 @@ My work blends **controls**, **optimization**, and **software engineering** - tu
 > Browse all my repositories [here »](https://github.com/aaronjohnsabu1999?tab=repositories)
 
 ---
-
+-->
 ### GitHub Stats
 
 <p align="center">
