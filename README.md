@@ -7,7 +7,7 @@ Ph.D. Researcher | Robotics & Autonomous Systems | UCLA
 
 ### About Me
 
-I’m a Ph.D. student in the Department pf [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/).  
+I’m a Ph.D. student in the Department of [Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at the [University of California, Los Angeles](https://www.ucla.edu/).  
 My research focuses on **robotics**, **autonomous systems**, and **control theory**.
 
 Before UCLA, I earned my:
@@ -23,8 +23,6 @@ My work blends **controls**, **optimization**, and **software engineering** - tu
 - Perception and sensor fusion for autonomous navigation  
 - Applied machine learning for control
 - Reachability analysis for aerospace systems
-
----
 
 <!--
 ### Selected Projects
@@ -43,11 +41,10 @@ My work blends **controls**, **optimization**, and **software engineering** - tu
 
 > Browse all my repositories [here »](https://github.com/aaronjohnsabu1999?tab=repositories)
 
----
--->
 ### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaronjohnsabu1999&show_icons=true&count_private=true&hide_title=true&theme=midnight-purple&ring_color=4b006e" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronjohnsabu1999&layout=compact&theme=midnight-purple&langs_count=6" height="150"/>
 </p>
+-->
